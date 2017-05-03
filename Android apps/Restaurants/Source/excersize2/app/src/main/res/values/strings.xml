@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurants</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="google_api_key">AIzaSyBX2IiAVlliNIef3cESlJwUA12h5yNrk-8</string>
+    <string name="google_photo_key">AIzaSyBHu-S5NttljoX7VvLzklpFKDPJ5zvqJSU</string>
+
+</resources>

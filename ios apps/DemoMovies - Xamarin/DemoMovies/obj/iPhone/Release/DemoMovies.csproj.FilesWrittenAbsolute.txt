@@ -1,0 +1,9 @@
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhone/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhone/Release/optimized/
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/bin/iPhone/Release/DemoMovies.exe.mdb
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/bin/iPhone/Release/DemoMovies.exe
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhone/Release/DemoMovies.exe
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhone/Release/DemoMovies.exe.mdb
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/bin/iPhone/Release/Newtonsoft.Json.dll

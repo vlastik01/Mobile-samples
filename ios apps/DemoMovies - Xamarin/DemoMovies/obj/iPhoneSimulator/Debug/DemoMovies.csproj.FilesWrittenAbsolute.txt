@@ -1,0 +1,9 @@
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhoneSimulator/Debug/optimized/
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/bin/iPhoneSimulator/Debug/DemoMovies.exe.mdb
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/bin/iPhoneSimulator/Debug/DemoMovies.exe
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhoneSimulator/Debug/DemoMovies.exe
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/obj/iPhoneSimulator/Debug/DemoMovies.exe.mdb
+/Users/vlad01/myProjects/Demo/DemoMovies/DemoMovies/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

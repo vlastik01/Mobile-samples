@@ -1,0 +1,4 @@
+PizzaToppingsAndroid.MainActivity, PizzaToppingsAndroid;md524a8981f5cada61080b756695bbc22b1.MainActivity
+PizzaToppingsAndroid.MainActivity, PizzaToppingsAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md524a8981f5cada61080b756695bbc22b1.MainActivity
+PizzaToppingsAndroid.MainActivity;md524a8981f5cada61080b756695bbc22b1.MainActivity
+pizzatoppingsandroid.MainActivity;md524a8981f5cada61080b756695bbc22b1.MainActivity
